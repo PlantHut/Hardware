@@ -1,6 +1,6 @@
 # Main Frame Parts
 
-![alt text](https://github.com/PlantHut/Hardware/blob/main/Frame/Nano/main-frame-assy-sample.png)
+![alt text](https://github.com/PlantHut/Hardware/blob/main/Nano/frame-assy/main-frame-assy-sample.png)
 
 - Corner	P/N PlantHut-Nano-Frame-2020-1
 - Joint		P/N PlantHut-Nano-Frame-2020-2
