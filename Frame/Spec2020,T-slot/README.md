@@ -1,6 +1,6 @@
 # Main Frame Parts
 
-![alt text](https://github.com/PlantHut/Hardware/blob/main/Frame/Spec%202020%20T-Slot/Main%20Frame%20Version%201.0.png)
+![alt text](https://github.com/PlantHut/Hardware/blob/main/Frame/Spec2020,T-slot/main-frame-assy-sample.png)
 
 - Corner	P/N PlantHut-Nano-Frame-2020-1
 - Joint		P/N PlantHut-Nano-Frame-2020-2
